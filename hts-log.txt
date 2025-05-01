@@ -1,0 +1,182 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 01 May 2025 23:29:58 at https://www.silage-wp.egenslab.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.silage-wp.egenslab.com/ -O1 "C:\My Web Sites\silage" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:31:23	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.silage-wp.egenslab.com/xmlrpc.php (from https://www.silage-wp.egenslab.com/)
+23:31:57	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.silage-wp.egenslab.com/xmlrpc.php?rsd (from https://www.silage-wp.egenslab.com/)
+23:33:22	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.silage-wp.egenslab.com/3-columns-gallery/ (from https://www.silage-wp.egenslab.com/)
+23:33:22	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.silage-wp.egenslab.com/chef/ (from https://www.silage-wp.egenslab.com/)
+23:33:22	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.silage-wp.egenslab.com/chef/mr-willium-jhon/ (from https://www.silage-wp.egenslab.com/)
+23:34:03	Warning: 	Found for https://www.silage-wp.egenslab.com/checkout/
+23:34:03	Warning: 	File has moved from https://www.silage-wp.egenslab.com/checkout/ to https://www.silage-wp.egenslab.com/cart/
+23:34:19	Error: 	"Not Found" (404) at link https://www.silage-wp.egenslab.com/error (from https://www.silage-wp.egenslab.com/)
+23:36:02	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.silage-wp.egenslab.com/chef/mrs-angel-juli/ (from https://www.silage-wp.egenslab.com/)
+23:36:02	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.silage-wp.egenslab.com/wp-content/uploads/2023/01/blog-st2.jpg (from https://www.silage-wp.egenslab.com/)
+23:36:28	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.silage-wp.egenslab.com/xmlrpc.php (from https://www.silage-wp.egenslab.com/)
+23:36:28	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.silage-wp.egenslab.com/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.woff2 (from https://www.silage-wp.egenslab.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=9.8.1)
+23:36:28	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.silage-wp.egenslab.com/wp-content/themes/silage-wp/assets/webfonts/fa-brands-400.eot (from https://www.silage-wp.egenslab.com/wp-content/themes/silage-wp/assets/css/all.css?ver=1.0.0)
+23:36:28	Error: 	"Not Found" (404) at link https://www.silage-wp.egenslab.com/wp-content/themes/silage-wp/assets/css/images/ui-icons_444444_256x240.png (from https://www.silage-wp.egenslab.com/wp-content/themes/silage-wp/assets/css/jquery-ui.css?ver=1.0.0)
+23:36:28	Error: 	"Not Found" (404) at link https://www.silage-wp.egenslab.com/wp-content/themes/silage-wp/assets/css/images/ui-icons_555555_256x240.png (from https://www.silage-wp.egenslab.com/wp-content/themes/silage-wp/assets/css/jquery-ui.css?ver=1.0.0)
+23:36:28	Error: 	"Not Found" (404) at link https://www.silage-wp.egenslab.com/wp-content/themes/silage-wp/assets/css/images/ui-icons_ffffff_256x240.png (from https://www.silage-wp.egenslab.com/wp-content/themes/silage-wp/assets/css/jquery-ui.css?ver=1.0.0)
+23:36:28	Error: 	"Not Found" (404) at link https://www.silage-wp.egenslab.com/wp-content/themes/silage-wp/assets/css/images/ui-icons_777620_256x240.png (from https://www.silage-wp.egenslab.com/wp-content/themes/silage-wp/assets/css/jquery-ui.css?ver=1.0.0)
+23:36:28	Error: 	"Not Found" (404) at link https://www.silage-wp.egenslab.com/wp-content/themes/silage-wp/assets/css/images/ui-icons_cc0000_256x240.png (from https://www.silage-wp.egenslab.com/wp-content/themes/silage-wp/assets/css/jquery-ui.css?ver=1.0.0)
+23:36:28	Error: 	"Not Found" (404) at link https://www.silage-wp.egenslab.com/wp-content/themes/silage-wp/assets/css/images/ui-icons_777777_256x240.png (from https://www.silage-wp.egenslab.com/wp-content/themes/silage-wp/assets/css/jquery-ui.css?ver=1.0.0)
+23:36:28	Error: 	"Not Found" (404) at link https://www.silage-wp.egenslab.com/wp-content/themes/silage-wp/assets/images/bg/h2-reservation-bg.png (from https://www.silage-wp.egenslab.com/wp-content/themes/silage-wp/assets/css/style.css?ver=1.0.0)
+23:36:28	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.silage-wp.egenslab.com/wp-content/themes/silage-wp/assets/images/icon/h3-social-bg.svg (from https://www.silage-wp.egenslab.com/wp-content/themes/silage-wp/assets/css/style.css?ver=1.0.0)
+23:36:29	Error: 	"Not Found" (404) at link https://www.silage-wp.egenslab.com/wp-content/themes/silage-wp/assets/images/bg/bredcumb-bg.png (from https://www.silage-wp.egenslab.com/wp-content/themes/silage-wp/assets/css/style.css?ver=1.0.0)
+23:36:29	Error: 	"Not Found" (404) at link https://www.silage-wp.egenslab.com/wp-content/themes/silage-wp/assets/images/bg/reservation-1-bg.png (from https://www.silage-wp.egenslab.com/wp-content/themes/silage-wp/assets/css/style.css?ver=1.0.0)
+23:36:29	Error: 	"Not Found" (404) at link https://www.silage-wp.egenslab.com/wp-content/themes/silage-wp/assets/images/bg/error-page-bg.png (from https://www.silage-wp.egenslab.com/wp-content/themes/silage-wp/assets/css/style.css?ver=1.0.0)
+23:36:29	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.silage-wp.egenslab.com/xmlrpc.php?rsd (from https://www.silage-wp.egenslab.com/)
+23:36:30	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.silage-wp.egenslab.com/wp-content/uploads/elementor/css/post-873.css?ver=1744388853 (from https://www.silage-wp.egenslab.com/reservation/)
+23:36:32	Warning: 	Moved Permanently for https://www.silage-wp.egenslab.com/?p=873
+23:36:32	Warning: 	File has moved from https://www.silage-wp.egenslab.com/?p=873 to https://www.silage-wp.egenslab.com/reservation/
+23:36:32	Warning: 	Moved Permanently for https://www.silage-wp.egenslab.com/?p=212
+23:36:32	Warning: 	File has moved from https://www.silage-wp.egenslab.com/?p=212 to https://www.silage-wp.egenslab.com/home-two/
+23:36:33	Warning: 	Moved Permanently for https://www.silage-wp.egenslab.com/?p=439
+23:36:33	Warning: 	File has moved from https://www.silage-wp.egenslab.com/?p=439 to https://www.silage-wp.egenslab.com/home-three/
+23:36:49	Warning: 	Moved Permanently for https://www.silage-wp.egenslab.com/?p=18
+23:36:49	Warning: 	File has moved from https://www.silage-wp.egenslab.com/?p=18 to https://www.silage-wp.egenslab.com/about/
+23:36:49	Warning: 	Moved Permanently for https://www.silage-wp.egenslab.com/?p=684
+23:36:49	Warning: 	File has moved from https://www.silage-wp.egenslab.com/?p=684 to https://www.silage-wp.egenslab.com/menu-list-01/
+23:36:49	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.silage-wp.egenslab.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.silage-wp.egenslab.com%2Fmenu-list-01%2F&format=xml (from https://www.silage-wp.egenslab.com/menu-list-01/)
+23:36:49	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.silage-wp.egenslab.com/wp-content/uploads/elementor/css/post-742.css?ver=1744476080 (from https://www.silage-wp.egenslab.com/menu-list-02/)
+23:36:49	Warning: 	Moved Permanently for https://www.silage-wp.egenslab.com/?p=742
+23:36:49	Warning: 	File has moved from https://www.silage-wp.egenslab.com/?p=742 to https://www.silage-wp.egenslab.com/menu-list-02/
+23:36:49	Warning: 	Moved Permanently for https://www.silage-wp.egenslab.com/?p=773
+23:36:49	Warning: 	File has moved from https://www.silage-wp.egenslab.com/?p=773 to https://www.silage-wp.egenslab.com/3-columns-menu/
+23:36:50	Warning: 	Moved Permanently for https://www.silage-wp.egenslab.com/?p=818
+23:36:50	Warning: 	File has moved from https://www.silage-wp.egenslab.com/?p=818 to https://www.silage-wp.egenslab.com/food-category/
+23:36:50	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.silage-wp.egenslab.com/wp-json/wp/v2/pages/934 (from https://www.silage-wp.egenslab.com/2-columns-gallery/)
+23:36:50	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.silage-wp.egenslab.com/?p=934 (from https://www.silage-wp.egenslab.com/2-columns-gallery/)
+23:39:56	Warning: 	Moved Permanently for https://www.silage-wp.egenslab.com/?p=983
+23:39:56	Warning: 	File has moved from https://www.silage-wp.egenslab.com/?p=983 to https://www.silage-wp.egenslab.com/cart/
+23:39:56	Warning: 	Moved Permanently for https://www.silage-wp.egenslab.com/?p=985
+23:39:56	Warning: 	File has moved from https://www.silage-wp.egenslab.com/?p=985 to https://www.silage-wp.egenslab.com/my-account/
+23:39:58	Warning: 	Moved Permanently for https://www.silage-wp.egenslab.com/?p=883
+23:39:58	Warning: 	File has moved from https://www.silage-wp.egenslab.com/?p=883 to https://www.silage-wp.egenslab.com/faq/
+23:39:58	Warning: 	Moved Permanently for https://www.silage-wp.egenslab.com/?p=178
+23:39:58	Warning: 	File has moved from https://www.silage-wp.egenslab.com/?p=178 to https://www.silage-wp.egenslab.com/blog-grid/
+23:40:16	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.silage-wp.egenslab.com/wp-content/uploads/2023/01/blog-st6.jpg (from https://www.silage-wp.egenslab.com/blog-grid/)
+23:40:39	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.silage-wp.egenslab.com/category/soup/ (from https://www.silage-wp.egenslab.com/blog-standard/)
+23:41:06	Warning: 	Moved Permanently for https://www.silage-wp.egenslab.com/?p=2160
+23:41:06	Warning: 	File has moved from https://www.silage-wp.egenslab.com/?p=2160 to https://www.silage-wp.egenslab.com/blog-left-sidebar/
+23:41:07	Warning: 	Moved Permanently for https://www.silage-wp.egenslab.com/?p=2163
+23:41:07	Warning: 	File has moved from https://www.silage-wp.egenslab.com/?p=2163 to https://www.silage-wp.egenslab.com/blog-right-sidebar/
+23:41:07	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.silage-wp.egenslab.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.silage-wp.egenslab.com%2Fblog-right-sidebar%2F (from https://www.silage-wp.egenslab.com/blog-right-sidebar/)
+23:41:07	Warning: 	Moved Permanently for https://www.silage-wp.egenslab.com/?p=2189
+23:41:07	Warning: 	File has moved from https://www.silage-wp.egenslab.com/?p=2189 to https://www.silage-wp.egenslab.com/eat-healthy-food-get-your-happiness/
+23:41:07	Warning: 	Moved Permanently for https://www.silage-wp.egenslab.com/?p=20
+23:41:07	Warning: 	File has moved from https://www.silage-wp.egenslab.com/?p=20 to https://www.silage-wp.egenslab.com/contact/
+23:41:07	Warning: 	Moved Permanently for https://www.silage-wp.egenslab.com/?p=190
+23:41:07	Warning: 	File has moved from https://www.silage-wp.egenslab.com/?p=190 to https://www.silage-wp.egenslab.com/chef/mr-moris-kan/
+23:41:20	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.silage-wp.egenslab.com/2023/01/23/page/2/ (from https://www.silage-wp.egenslab.com/2023/01/23/)
+23:41:20	Warning: 	Moved Permanently for https://www.silage-wp.egenslab.com/?p=318
+23:41:20	Warning: 	File has moved from https://www.silage-wp.egenslab.com/?p=318 to https://www.silage-wp.egenslab.com/special-food-for-childrens-from-our-experties-chef/
+23:41:20	Warning: 	Moved Permanently for https://www.silage-wp.egenslab.com/?p=313
+23:41:20	Warning: 	File has moved from https://www.silage-wp.egenslab.com/?p=313 to https://www.silage-wp.egenslab.com/delicious-food-cooking-from-our-experties-chef/
+23:41:20	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.silage-wp.egenslab.com/xmlrpc.php (from https://www.silage-wp.egenslab.com/)
+23:41:20	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.silage-wp.egenslab.com/xmlrpc.php?rsd (from https://www.silage-wp.egenslab.com/)
+23:41:20	Warning: 	Moved Permanently for https://www.silage-wp.egenslab.com/?p=2188
+23:41:20	Warning: 	File has moved from https://www.silage-wp.egenslab.com/?p=2188 to https://www.silage-wp.egenslab.com/chef/robert-smith/
+23:41:20	Warning: 	Moved Permanently for https://www.silage-wp.egenslab.com/?p=2187
+23:41:20	Warning: 	File has moved from https://www.silage-wp.egenslab.com/?p=2187 to https://www.silage-wp.egenslab.com/chef/mily-julia/
+23:41:20	Warning: 	Moved Permanently for https://www.silage-wp.egenslab.com/?p=206
+23:41:20	Warning: 	File has moved from https://www.silage-wp.egenslab.com/?p=206 to https://www.silage-wp.egenslab.com/chef/mr-array-mong/
+23:41:20	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.silage-wp.egenslab.com/wp-content/uploads/elementor/css/post-742.css?ver=1744476080 (from https://www.silage-wp.egenslab.com/menu-list-02/)
+23:41:20	Warning: 	Moved Permanently for https://www.silage-wp.egenslab.com/?p=934
+23:41:20	Warning: 	File has moved from https://www.silage-wp.egenslab.com/?p=934 to https://www.silage-wp.egenslab.com/2-columns-gallery/
+23:41:20	Warning: 	Moved Permanently for https://www.silage-wp.egenslab.com/?p=961
+23:41:20	Warning: 	File has moved from https://www.silage-wp.egenslab.com/?p=961 to https://www.silage-wp.egenslab.com/3-columns-gallery/
+23:41:20	Warning: 	Moved Permanently for https://www.silage-wp.egenslab.com/?p=34
+23:41:20	Warning: 	File has moved from https://www.silage-wp.egenslab.com/?p=34 to https://www.silage-wp.egenslab.com/chef/mr-willium-jhon/
+23:41:20	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.silage-wp.egenslab.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.silage-wp.egenslab.com%2Fchef%2Fmr-willium-jhon%2F&format=xml (from https://www.silage-wp.egenslab.com/chef/mr-willium-jhon/)
+23:41:21	Warning: 	Moved Permanently for https://www.silage-wp.egenslab.com/?p=2149
+23:41:21	Warning: 	File has moved from https://www.silage-wp.egenslab.com/?p=2149 to https://www.silage-wp.egenslab.com/product/beaf-machal/
+23:41:21	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.silage-wp.egenslab.com/wp-content/uploads/2023/02/food-itm-img8-600x434.jpg (from https://www.silage-wp.egenslab.com/product/beaf-machal/)
+23:41:25	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.silage-wp.egenslab.com/product-tag/kebab/ (from https://www.silage-wp.egenslab.com/product/beaf-machal/)
+23:41:43	Warning: 	Moved Permanently for https://www.silage-wp.egenslab.com/?p=2146
+23:41:43	Warning: 	File has moved from https://www.silage-wp.egenslab.com/?p=2146 to https://www.silage-wp.egenslab.com/product/burger-with-drinks/
+23:42:22	Warning: 	Moved Permanently for https://www.silage-wp.egenslab.com/?p=2142
+23:42:22	Warning: 	File has moved from https://www.silage-wp.egenslab.com/?p=2142 to https://www.silage-wp.egenslab.com/product/chicken-leg-fry/
+23:42:45	Warning: 	Moved Permanently for https://www.silage-wp.egenslab.com/?p=2144
+23:42:45	Warning: 	File has moved from https://www.silage-wp.egenslab.com/?p=2144 to https://www.silage-wp.egenslab.com/product/full-chicken/
+23:42:53	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.silage-wp.egenslab.com/product/full-chicken/?add-to-cart=2149 (from https://www.silage-wp.egenslab.com/product/full-chicken/)
+23:42:59	Warning: 	Moved Permanently for https://www.silage-wp.egenslab.com/?p=2143
+23:42:59	Warning: 	File has moved from https://www.silage-wp.egenslab.com/?p=2143 to https://www.silage-wp.egenslab.com/product/golden-coffee/
+23:43:10	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.silage-wp.egenslab.com/product/golden-coffee/?add-to-cart=2152 (from https://www.silage-wp.egenslab.com/product/golden-coffee/)
+23:43:17	Warning: 	Moved Permanently for https://www.silage-wp.egenslab.com/?p=2153
+23:43:17	Warning: 	File has moved from https://www.silage-wp.egenslab.com/?p=2153 to https://www.silage-wp.egenslab.com/product/indian-biryani/
+23:43:34	Warning: 	Moved Permanently for https://www.silage-wp.egenslab.com/?p=2152
+23:43:34	Warning: 	File has moved from https://www.silage-wp.egenslab.com/?p=2152 to https://www.silage-wp.egenslab.com/product/lemon-rice-with-chicken/
+23:43:39	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.silage-wp.egenslab.com/product/lemon-rice-with-chicken/?add-to-cart=2150 (from https://www.silage-wp.egenslab.com/product/lemon-rice-with-chicken/)
+23:43:44	Warning: 	Moved Permanently for https://www.silage-wp.egenslab.com/?p=2145
+23:43:44	Warning: 	File has moved from https://www.silage-wp.egenslab.com/?p=2145 to https://www.silage-wp.egenslab.com/product/mutton-kabab/
+23:43:47	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.silage-wp.egenslab.com/product/mutton-kabab/?add-to-cart=2143 (from https://www.silage-wp.egenslab.com/product/mutton-kabab/)
+23:43:53	Warning: 	Moved Permanently for https://www.silage-wp.egenslab.com/?p=2148
+23:43:53	Warning: 	File has moved from https://www.silage-wp.egenslab.com/?p=2148 to https://www.silage-wp.egenslab.com/product/mutton-with-shrimps/
+23:43:56	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.silage-wp.egenslab.com/product/mutton-with-shrimps/?add-to-cart=2146 (from https://www.silage-wp.egenslab.com/product/mutton-with-shrimps/)
+23:43:57	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.silage-wp.egenslab.com/product/mutton-with-shrimps/?add-to-cart=2149 (from https://www.silage-wp.egenslab.com/product/mutton-with-shrimps/)
+23:44:05	Warning: 	Moved Permanently for https://www.silage-wp.egenslab.com/?p=2141
+23:44:05	Warning: 	File has moved from https://www.silage-wp.egenslab.com/?p=2141 to https://www.silage-wp.egenslab.com/product/prawn-with-noodles/
+23:44:07	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.silage-wp.egenslab.com/product/prawn-with-noodles/?add-to-cart=2151 (from https://www.silage-wp.egenslab.com/product/prawn-with-noodles/)
+23:44:08	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.silage-wp.egenslab.com/product/prawn-with-noodles/?add-to-cart=2152 (from https://www.silage-wp.egenslab.com/product/prawn-with-noodles/)
+23:44:11	Warning: 	Moved Permanently for https://www.silage-wp.egenslab.com/?p=2147
+23:44:11	Warning: 	File has moved from https://www.silage-wp.egenslab.com/?p=2147 to https://www.silage-wp.egenslab.com/product/shrimps-with-role/
+23:44:12	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.silage-wp.egenslab.com/product/shrimps-with-role/?add-to-cart=2144 (from https://www.silage-wp.egenslab.com/product/shrimps-with-role/)
+23:44:12	Warning: 	Moved Permanently for https://www.silage-wp.egenslab.com/?p=2151
+23:44:12	Warning: 	File has moved from https://www.silage-wp.egenslab.com/?p=2151 to https://www.silage-wp.egenslab.com/product/special-kabab/
+23:44:14	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.silage-wp.egenslab.com/product/special-kabab/?add-to-cart=2153 (from https://www.silage-wp.egenslab.com/product/special-kabab/)
+23:44:15	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.silage-wp.egenslab.com/product/special-kabab/?add-to-cart=2141 (from https://www.silage-wp.egenslab.com/product/special-kabab/)
+23:44:20	Warning: 	Moved Permanently for https://www.silage-wp.egenslab.com/shop/page/1/
+23:44:20	Warning: 	File has moved from https://www.silage-wp.egenslab.com/shop/page/1/ to https://www.silage-wp.egenslab.com/shop/
+23:44:28	Warning: 	Moved Permanently for https://www.silage-wp.egenslab.com/?p=311
+23:44:28	Warning: 	File has moved from https://www.silage-wp.egenslab.com/?p=311 to https://www.silage-wp.egenslab.com/cooking-delicious-food-our-experties-chef-2/
+23:44:28	Warning: 	Moved Permanently for https://www.silage-wp.egenslab.com/?p=309
+23:44:28	Warning: 	File has moved from https://www.silage-wp.egenslab.com/?p=309 to https://www.silage-wp.egenslab.com/make-different-recipe-cooking-by-chef/
+23:44:28	Warning: 	Moved Permanently for https://www.silage-wp.egenslab.com/?p=307
+23:44:28	Warning: 	File has moved from https://www.silage-wp.egenslab.com/?p=307 to https://www.silage-wp.egenslab.com/esay-to-make-some-special-food-in-home/
+23:44:29	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.silage-wp.egenslab.com/esay-to-make-some-special-food-in-home/?replytocom=6 (from https://www.silage-wp.egenslab.com/esay-to-make-some-special-food-in-home/)
+23:44:45	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.silage-wp.egenslab.com/wp-json/wp/v2/categories/26 (from https://www.silage-wp.egenslab.com/category/salad/)
+23:44:49	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.silage-wp.egenslab.com/wp-json/wp/v2/tags/11 (from https://www.silage-wp.egenslab.com/tag/dessert/)
+23:44:50	Warning: 	Moved Permanently for https://www.silage-wp.egenslab.com/?p=201
+23:44:50	Warning: 	File has moved from https://www.silage-wp.egenslab.com/?p=201 to https://www.silage-wp.egenslab.com/chef/mrs-angel-juli/
+23:44:50	Warning: 	Moved Permanently for https://www.silage-wp.egenslab.com/?p=304
+23:44:50	Warning: 	File has moved from https://www.silage-wp.egenslab.com/?p=304 to https://www.silage-wp.egenslab.com/eat-some-nutition-food-happy-leadlife/
+23:44:50	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.silage-wp.egenslab.com/wp-content/uploads/elementor/css/post-742.css?ver=1744476080 (from https://www.silage-wp.egenslab.com/menu-list-02/)
+23:45:03	Warning: 	Moved Permanently for https://www.silage-wp.egenslab.com/?p=2150
+23:45:03	Warning: 	File has moved from https://www.silage-wp.egenslab.com/?p=2150 to https://www.silage-wp.egenslab.com/product/special-noodles/
+23:45:03	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.silage-wp.egenslab.com/product/special-noodles/?add-to-cart=2141 (from https://www.silage-wp.egenslab.com/product/special-noodles/)
+23:45:04	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.silage-wp.egenslab.com/product/special-noodles/?add-to-cart=2146 (from https://www.silage-wp.egenslab.com/product/special-noodles/)
+23:45:13	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.silage-wp.egenslab.com/product-tag/berverage/?add-to-cart=2153 (from https://www.silage-wp.egenslab.com/product-tag/berverage/)
+23:45:38	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.silage-wp.egenslab.com/esay-to-make-some-special-food-in-home/?replytocom=6 (from https://www.silage-wp.egenslab.com/esay-to-make-some-special-food-in-home/)
+23:45:39	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.silage-wp.egenslab.com/wp-json/wp/v2/posts/299 (from https://www.silage-wp.egenslab.com/to-serve-food-customer-with-coffee/)
+23:45:40	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.silage-wp.egenslab.com/?p=299 (from https://www.silage-wp.egenslab.com/to-serve-food-customer-with-coffee/)
+23:45:41	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.silage-wp.egenslab.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.silage-wp.egenslab.com%2Fto-serve-food-customer-with-coffee%2F&format=xml (from https://www.silage-wp.egenslab.com/to-serve-food-customer-with-coffee/)
+23:45:43	Warning: 	Moved Permanently for https://www.silage-wp.egenslab.com/?p=290
+23:45:43	Warning: 	File has moved from https://www.silage-wp.egenslab.com/?p=290 to https://www.silage-wp.egenslab.com/cooking-delicious-food-our-experties-chef/
+23:45:43	Warning: 	Moved Permanently for https://www.silage-wp.egenslab.com/?p=188
+23:45:43	Warning: 	File has moved from https://www.silage-wp.egenslab.com/?p=188 to https://www.silage-wp.egenslab.com/different-types-of-recipe-cooking-by-chef/
+23:45:43	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.silage-wp.egenslab.com/different-types-of-recipe-cooking-by-chef/?replytocom=3 (from https://www.silage-wp.egenslab.com/different-types-of-recipe-cooking-by-chef/)
+23:45:44	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.silage-wp.egenslab.com/wp-json/wp/v2/categories/26 (from https://www.silage-wp.egenslab.com/category/salad/)
+23:45:45	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.silage-wp.egenslab.com/product-tag/kebab/feed/ (from https://www.silage-wp.egenslab.com/product-tag/kebab/)
+23:45:47	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.silage-wp.egenslab.com/product-tag/kebab/?add-to-cart=2151 (from https://www.silage-wp.egenslab.com/product-tag/kebab/)
+23:45:48	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.silage-wp.egenslab.com/product/burger-with-drinks/?add-to-cart=2144 (from https://www.silage-wp.egenslab.com/product/burger-with-drinks/?add-to-cart=2143)
+23:45:48	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.silage-wp.egenslab.com/product/special-noodles/?add-to-cart=2151 (from https://www.silage-wp.egenslab.com/product/special-noodles/?add-to-cart=2152)
+23:45:49	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.silage-wp.egenslab.com/product/special-noodles/?add-to-cart=2141 (from https://www.silage-wp.egenslab.com/product/special-noodles/)
+23:45:51	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.silage-wp.egenslab.com/product/special-noodles/?add-to-cart=2146 (from https://www.silage-wp.egenslab.com/product/special-noodles/)
+23:45:54	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.silage-wp.egenslab.com/product/golden-coffee/?add-to-cart=2142 (from https://www.silage-wp.egenslab.com/product/golden-coffee/?add-to-cart=2144)
+23:45:55	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.silage-wp.egenslab.com/product/lemon-rice-with-chicken/?add-to-cart=2142 (from https://www.silage-wp.egenslab.com/product/lemon-rice-with-chicken/?add-to-cart=2153)
+23:45:56	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.silage-wp.egenslab.com/product/prawn-with-noodles/?add-to-cart=2153 (from https://www.silage-wp.egenslab.com/product/prawn-with-noodles/?add-to-cart=2152)
+23:45:57	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.silage-wp.egenslab.com/product/special-kabab/?add-to-cart=2149 (from https://www.silage-wp.egenslab.com/product/special-kabab/?add-to-cart=2152)
+23:45:58	Warning: 	Moved Permanently for https://www.silage-wp.egenslab.com/?p=299
+23:45:58	Warning: 	File has moved from https://www.silage-wp.egenslab.com/?p=299 to https://www.silage-wp.egenslab.com/to-serve-food-customer-with-coffee/
+23:45:58	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.silage-wp.egenslab.com/product/burger-with-drinks/?add-to-cart=2144 (from https://www.silage-wp.egenslab.com/product/burger-with-drinks/?add-to-cart=2143)
+23:46:00	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.silage-wp.egenslab.com/product/prawn-with-noodles/?add-to-cart=2153 (from https://www.silage-wp.egenslab.com/product/prawn-with-noodles/?add-to-cart=2152)
+23:46:01	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.silage-wp.egenslab.com/product/burger-with-drinks/?add-to-cart=2144 (from https://www.silage-wp.egenslab.com/product/burger-with-drinks/?add-to-cart=2143)
+
+HTTrack Website Copier/3.49-2 mirror complete in 16 minutes 4 seconds : 1124 links scanned, 1000 files written (64808504 bytes overall) [31426589 bytes received at 32600 bytes/sec], 42928270 bytes transferred using HTTP compression in 686 files, ratio 19%, 13.7 requests per connection
+(15 errors, 156 warnings, 0 messages)

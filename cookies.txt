@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.silage-wp.egenslab.com	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+www.silage-wp.egenslab.com	TRUE	/	FALSE	1999999999	wp_woocommerce_session_b2f5f1267712d5db26c12745e6aebf73	t_c428ee637d85d459f227d13d7fc76f%7C%7C1746295408%7C%7C1746291808%7C%7C24191b6c7099240dcc430c6daed261b1
+www.silage-wp.egenslab.com	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	0ad0a3eda0135e516fe48abafc966d36
+
