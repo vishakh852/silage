@@ -3013,8 +3013,8 @@ header.style-3 .main-menu ul > li.current_page_ancestor > a {
   color: var(--primary-color1);
 }
 header.style-3 .main-menu ul > li.current_page_item > a {
-  /* color: var(--primary-color1); */
-  color: #B9AB5C;
+  color: var(--primary-color1);
+  /* color: #B9AB5C; */
 }
 header.style-3 .main-menu ul > li a.active {
   color: var(--primary-color1);
